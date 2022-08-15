@@ -1,0 +1,17 @@
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\bin\Debug\net6.0-windows\wpf-controls.deps.json
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\bin\Debug\net6.0-windows\wpf-controls.dll
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\bin\Debug\net6.0-windows\wpf-controls.pdb
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls.csproj.AssemblyReference.cache
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\ClearableTextBox.g.cs
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls_MarkupCompile.cache
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls_MarkupCompile.lref
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\ClearableTextBox.baml
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls.g.resources
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls.AssemblyInfoInputs.cache
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls.AssemblyInfo.cs
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls.csproj.CoreCompileInputs.cache
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls.dll
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\refint\wpf-controls.dll
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\wpf-controls.pdb
+C:\Users\babichev.i\Documents\GitHub\wpf-controls\wpf-controls\wpf-controls\obj\Debug\net6.0-windows\ref\wpf-controls.dll

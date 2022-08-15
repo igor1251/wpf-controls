@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "controls-test/1.0.0": {
+        "dependencies": {
+          "wpf-controls": "1.0.0"
+        },
+        "runtime": {
+          "controls-test.dll": {}
+        }
+      },
+      "wpf-controls/1.0.0": {
+        "runtime": {
+          "wpf-controls.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "controls-test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "wpf-controls/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
